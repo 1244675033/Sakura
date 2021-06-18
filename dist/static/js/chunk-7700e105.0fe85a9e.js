@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-7700e105"],{b9c7f:function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("游戏中心")])},u=[],o={mounted(){},data(){return{}},watch:{},methods:{},components:{}},a=o,r=t("2877"),s=Object(r["a"])(a,c,u,!1,null,null,null);e["default"]=s.exports}}]);

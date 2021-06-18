@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e1841"],{"7b88":function(n,e,t){"use strict";t.r(e);var u=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("小说中心")])},c=[],o={mounted(){},data(){return{}},watch:{},methods:{},components:{}},a=o,r=t("2877"),s=Object(r["a"])(a,u,c,!1,null,null,null);e["default"]=s.exports}}]);
